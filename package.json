@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/nuxt-ui-pro1#readme",
+  "homepage": "https://github.com/common-intellisense/nuxt-ui-pro#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/nuxt-ui-pro1.git"
+    "url": "git+https://github.com/common-intellisense/nuxt-ui-pro.git"
   },
-  "bugs": "https://github.com/Simon-He95/nuxt-ui-pro1/issues",
+  "bugs": "https://github.com/Simon-He95/nuxt-ui-pro/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
